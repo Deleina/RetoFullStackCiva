@@ -1,4 +1,4 @@
-# API de Futbolistas ⚽ 
+# API Futbolistas ⚽ 
 Este proyecto es una API funcional para gestionar información sobre futbolistas, desarrollada en Java 17 con Spring Boot 3 y utilizando MySQL como base de datos.
 
 ## Descripción del Proyecto
