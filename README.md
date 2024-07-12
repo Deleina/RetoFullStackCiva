@@ -36,6 +36,8 @@ La API permite gestionar futbolistas con la siguiente información:
 ### Tabla Posición:
   * id (PK)
   * nombre (arquero, defensa, mediocampista)
+
+![Texto alternativo](futbolistas-api/imagenes/bd-image.jpeg)
     
 ## Características Opcionales
 * Paginación en el endpoint `/futbolista` para manejar grandes volúmenes de datos.
